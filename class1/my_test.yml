@@ -1,0 +1,10 @@
+- something
+- something else
+- 99
+- 101
+- another string
+- ip_addr: 178.133.10.9
+  model: '9000'
+  platform: cisco_nxos
+  vendor: cisco
+- more info
